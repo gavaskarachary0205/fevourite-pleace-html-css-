@@ -1,0 +1,35 @@
+.fevourite-places-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
+    height:150vh;
+    background-size: cover;
+    
+}
+.fevourite-places-Heading {
+    font-family: "roboto";
+    font-size:28px;
+    font-weight: bold;
+    padding:24px;
+    color: white;
+}
+.fevourite-places-card-container {
+    background-color: white;
+    border-radius: 8px;
+    padding:16px;
+    margin: 15px;
+}
+.fevourite-places-card-heading {
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: bold;
+    color:  #0f0e46;
+}
+.fevourite-places-card-description {
+    font-family: "Roboto";
+    color:  #6c6b70;
+    font-size: 13px;
+    padding: 8px;
+}
+.fevourite-places-card-image{
+    height:100px;
+    width: 80px;
+}
